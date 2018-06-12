@@ -1,0 +1,5 @@
+com\ysmx\springcloud\DeptProvider8003_App.class
+com\ysmx\springcloud\controller\DeptController.class
+com\ysmx\springcloud\dao\DeptDao.class
+com\ysmx\springcloud\service\impl\DeptServiceImpl.class
+com\ysmx\springcloud\service\DeptService.class
